@@ -1,7 +1,7 @@
 {
-    "version": "1.0.6.4",
-    "downloadurl": "https://github.com/dohwacorp/Dalamud.Updater/releases/download/1.0.6.4/Dalamud.Updater.zip",
-    "hash": "719BB65264A6C5E9D3B87E529A7ABE5C",
+    "version": "1.0.6.5",
+    "downloadurl": "https://github.com/dohwacorp/Dalamud.Updater/releases/download/1.0.6.5/Dalamud.Updater.zip",
+    "hash": "26C616BA1DEC38BDE660A8C33DED7AC9",
     "changelog": "",
     "config": {
         "SafeMode": false
