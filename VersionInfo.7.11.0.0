@@ -1,7 +1,7 @@
 {
-    "AssemblyVersion": "7.11.0.2",
+    "AssemblyVersion": "7.11.0.3",
     "SupportedGameVer": "2023.11.01.0000.0000",
-    "DownloadUrl": "https://github.com/dohwacorp/Dalamud/releases/download/7.11.0.2/dalamud.zip",
+    "DownloadUrl": "https://github.com/dohwacorp/Dalamud/releases/download/7.11.0.3/dalamud.zip",
     "RuntimeVersion": "7.0.0",
     "RuntimeRequired": true,
     "Key": "7.11.0.0",
