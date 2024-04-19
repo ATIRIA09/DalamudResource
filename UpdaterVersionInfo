@@ -1,8 +1,8 @@
 {
-    "version": "1.0.6.5",
-    "downloadurl": "https://github.com/dohwacorp/Dalamud.Updater/releases/download/1.0.6.5/Dalamud.Updater.zip",
-    "hash": "26C616BA1DEC38BDE660A8C33DED7AC9",
-    "changelog": "",
+    "version": "1.0.6.8",
+    "downloadurl": "https://xlweb.xivpf.xyz/Updater/Download",
+    "hash": "7559718DF2B391C2EA17A119B1749E85",
+    "changelog": "Update for applying D17 system",
     "config": {
         "SafeMode": false
     }
